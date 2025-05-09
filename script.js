@@ -3,9 +3,9 @@ const lines = [
   "Naji Hassain – Étudiant à l'IG2I (Centrale Lille)",
   "",
   "$ cat contact.txt",
-  "📧 naji.hassain@email.com",
-  "📱 06 01 02 03 04",
-  "🌐 github.com/naji-hassain | www.linkedin.com/in/naji-hassain-011a2a294",
+  "📧 najihassain@email.com",
+  "📱 07 83 97 80 35",
+  "🌐 github.com/R4pt0r-213 | www.linkedin.com/in/naji-hassain-011a2a294",
   "",
   "$ cat objectif.txt",
   `> Recherche de stage en développement web d’une durée de 12 semaines
