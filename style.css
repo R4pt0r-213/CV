@@ -1,0 +1,16 @@
+body {
+    background-color: #000;
+    color: #0f0;
+    font-family: 'Courier New', monospace;
+    padding: 20px;
+    margin: 0;
+  }
+  
+  #terminal {
+    white-space: pre-wrap;
+    line-height: 1.5;
+  }
+  
+.output {
+        color: rgb(183, 189, 183);
+    }
