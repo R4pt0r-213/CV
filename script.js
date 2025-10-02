@@ -8,7 +8,7 @@ const lines = [
   "🌐 github.com/R4pt0r-213 | www.linkedin.com/in/naji-hassain-011a2a294",
   "",
   "$ cat objectif.txt",
-  `> Recherche de stage en développement web d’une durée de 12 semaines
+  `> Recherche d'un contrat d'apprentissage
 > Envie d’apprendre à mettre en pratique mes connaissances
 > Envie de découvrir de nouveaux outils
 > Envie de progresser dans un environnement professionnel`,
@@ -26,7 +26,7 @@ Arabe : niveau C1`,
   "$ ls -R Compétences/",
   `Compétences/
 └── Langages/
-    C  html/css  js  php  sql  java  bash
+    C  html/css  js  php  sql  java  bash  ReactJs
 └── Outils/
     github  figma  simulink  ltspice`,
   "",
@@ -36,11 +36,12 @@ Arabe : niveau C1`,
     > Site de location de drones (en cours)
     > Serrure connectée avec Arduino
     > Labyrinthe jouable sur LED 8x8
+    > Site vitrine cabinet dentaire fictif
 └── Académiques/
-    > Site vitrine pour un cabinet dentaire
+    > Site complet pour un cabinet dentaire
     > Site de quizz
-    > Jeu Avalam
-    > Véhicule autonome suiveur de ligne`,
+    > Jeu Avalam en ligne
+    > Buggy télécommandé`,
   ""
 ];
 
