@@ -5,7 +5,7 @@ const lines = [
   "$ cat contact.txt",
   "📧 najihassain@email.com",
   "📱 07 83 97 80 35",
-  "🌐 github.com/R4pt0r-213 | www.linkedin.com/in/naji-hassain-011a2a294",
+  "🌐 github.com/R4pt0r-213 | www.linkedin.com/in/naji-hassain",
   "",
   "$ cat objectif.txt",
   `> Recherche d'un contrat d'apprentissage
