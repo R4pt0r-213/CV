@@ -20,15 +20,15 @@ Arabe : niveau C1`,
   "",
   "$ ls -R Formations/", 
   `Formations/
-└── [2023-2024] IG2I CentraleLille : Ingénierie Informatique/Industrielle
-└── [2022-2024] CPGE MPSI - Lycée Robespierre Arras`,
+└── [2023-2025] IG2I CentraleLille : Ingénierie Informatique/Industrielle
+└── [2022-2023] CPGE MPSI - Lycée Robespierre Arras`,
   "",
   "$ ls -R Compétences/",
   `Compétences/
 └── Langages/
     C  html/css  js  php  sql  java  bash  ReactJs
 └── Outils/
-    github  figma  simulink  ltspice`,
+    github  figma  simulink  ltspice  wordpress`,
   "",
   "$ ls -R Projets/",
   `Projets/
